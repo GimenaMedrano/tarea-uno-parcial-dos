@@ -7,15 +7,16 @@ static double Area(double radio)
 }
 
 /*Marh.PI, valor de pi
- Math.Pow, debuelve el valor especifico elevado a un potencia en este caso de valor 2*/
+ Math.Pow, devuelve el valor especifico elevado a un potencia en este caso de valor 2*/
 
 double radio = 45.2;
 double area = Area(radio);
 Console.WriteLine($"El área del círculo  es {area}");
 
-/*Crear una función que calcule el promedio
-de una lista de números, recibiendo como
-parámetro una lista de enteros.*/
+/*Crear una función que calcule
+ * el perímetro de un rectángulo, 
+ * recibiendo como parámetros el
+ * ancho y la altura..*/
 
 static double Perimetro(double ancho, double altura)
 {
@@ -87,7 +88,7 @@ Console.WriteLine( MAYUS );
 
 static double Distancia(double x1, double x2, double y1, double y2)
 {//Math.Sqrt calcula la raiz cuadrada 
-    double distancia = Math.Sqrt(Math.Pow(x2 - x2, 1) + Math.Pow(y2 - y1, 2));
+    double distancia = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
     return distancia;
 }
 double  x1=4.6, x2=8.4, y1=1.05, y2=10.23;
@@ -119,4 +120,4 @@ static int Factorial(int x)
     return factorial;
 }
 int x = 20;
-Console.WriteLine("el vactorial de " + x + "es:" + Factorial(x));
+Console.WriteLine("el factorial de " + x + "es:" + Factorial(x));
