@@ -1,0 +1,15 @@
+C:\Users\gimen\OneDrive\Escritorio\tarea uno parcial 2\bin\Debug\net7.0\tarea uno parcial 2.exe
+C:\Users\gimen\OneDrive\Escritorio\tarea uno parcial 2\bin\Debug\net7.0\tarea uno parcial 2.deps.json
+C:\Users\gimen\OneDrive\Escritorio\tarea uno parcial 2\bin\Debug\net7.0\tarea uno parcial 2.runtimeconfig.json
+C:\Users\gimen\OneDrive\Escritorio\tarea uno parcial 2\bin\Debug\net7.0\tarea uno parcial 2.dll
+C:\Users\gimen\OneDrive\Escritorio\tarea uno parcial 2\bin\Debug\net7.0\tarea uno parcial 2.pdb
+C:\Users\gimen\OneDrive\Escritorio\tarea uno parcial 2\obj\Debug\net7.0\tarea uno parcial 2.csproj.AssemblyReference.cache
+C:\Users\gimen\OneDrive\Escritorio\tarea uno parcial 2\obj\Debug\net7.0\tarea uno parcial 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gimen\OneDrive\Escritorio\tarea uno parcial 2\obj\Debug\net7.0\tarea uno parcial 2.AssemblyInfoInputs.cache
+C:\Users\gimen\OneDrive\Escritorio\tarea uno parcial 2\obj\Debug\net7.0\tarea uno parcial 2.AssemblyInfo.cs
+C:\Users\gimen\OneDrive\Escritorio\tarea uno parcial 2\obj\Debug\net7.0\tarea uno parcial 2.csproj.CoreCompileInputs.cache
+C:\Users\gimen\OneDrive\Escritorio\tarea uno parcial 2\obj\Debug\net7.0\tarea uno parcial 2.dll
+C:\Users\gimen\OneDrive\Escritorio\tarea uno parcial 2\obj\Debug\net7.0\refint\tarea uno parcial 2.dll
+C:\Users\gimen\OneDrive\Escritorio\tarea uno parcial 2\obj\Debug\net7.0\tarea uno parcial 2.pdb
+C:\Users\gimen\OneDrive\Escritorio\tarea uno parcial 2\obj\Debug\net7.0\tarea uno parcial 2.genruntimeconfig.cache
+C:\Users\gimen\OneDrive\Escritorio\tarea uno parcial 2\obj\Debug\net7.0\ref\tarea uno parcial 2.dll
