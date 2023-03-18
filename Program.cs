@@ -9,7 +9,7 @@ static double Area(double radio)
 /*Marh.PI, valor de pi
  Math.Pow, devuelve el valor especifico elevado a un potencia en este caso de valor 2*/
 
-double radio = 45.2;
+double radio = 45.2789;
 double area = Area(radio);
 Console.WriteLine($"El área del círculo  es {area}");
 
@@ -23,8 +23,8 @@ static double Perimetro(double ancho, double altura)
     double perimetro= 2 * (ancho + altura);
     return perimetro;
 }
-double ancho = 10.12;
-double altura =5.47;
+double ancho = 10.12423;
+double altura =5.47789;
 double perimetro=Perimetro(ancho, altura);
 Console.WriteLine($"El perimetro del rectangulo es: {perimetro}");
 
@@ -33,18 +33,18 @@ promedio de una lista de números,
 recibiendo como parámetro una lista
 de enteros*/
 
-static double Promedio(List<int> numeros)
+static double Promedio(List<int> n)
 {
     int suma = 0;
-    foreach(int elemetos in numeros )//foreach recorre la lista de elementos 
+    foreach(int elemetos in n )//foreach recorre la lista de elementos 
     {
         suma += elemetos;
     }
-    Double promedio = suma/numeros.Count; // Count se usa para devolver el conjunto de numeros de la lista 
+    Double promedio = suma/n.Count; // Count se usa para devolver el conjunto de numeros de la lista 
     return promedio;
 }
 
-List<int> numeros = new List<int>() { 2, 5, 8, 10, 12 };
+List<int> numeros = new List<int>() { 5, 15, 13, 10, 12 };
 double promedio = Promedio(numeros);
 Console.WriteLine("El promedio de la lista de números es: ", promedio);
 
@@ -91,12 +91,12 @@ static double Distancia(double x1, double x2, double y1, double y2)
     double distancia = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
     return distancia;
 }
-double  x1=4.6, x2=8.4, y1=1.05, y2=10.23;
+double  x1=4.6756, x2=8.47879, y1=1.05123, y2=10.2374;
 Console.WriteLine("la ditancia entre los dos puntos es de: " + Distancia(x1, x2, y1, y2));
 
 /*Crear una función que calcule la suma
  * de los primeros n números naturales,
- * recibiendo como parámetro el número n.*/
+ * recibiendo como parámetro el número n.*/ 
 
 static int Suma_naturales(int n)
 {
